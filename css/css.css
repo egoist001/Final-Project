@@ -1,0 +1,38 @@
+#logo{
+    color: #ffffff;
+    font-size: xx-large;
+    padding: 10px;
+}
+#covid{
+    color: #ffffff;
+}
+#log{
+    margin-left: 30px;
+}
+#reg{
+    margin-left: 1300px;
+}
+#deviz{
+    height: 370px;
+    color: #ff0000;
+    margin-left: 50px;
+}
+#post{
+    width: 500px;
+    height: 500px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+#wiki{
+    display: inline-block;
+    color: #ff0000;  
+}
+#box{
+    display: inline-block;
+}
+#logos1, #logos2, #logos3{
+    display: inline-block;
+    text-align: center;
+    padding: 150px;
+
+}
